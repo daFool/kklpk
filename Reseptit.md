@@ -3,7 +3,7 @@
 # O
 | Resepti | Koodit | Status | Kuvaus |
 |---------|--------|--------|--------|
-| [Omenaruustu](/Reseptit/Leivonnaiset/Omenaruusut.md)| Ei maistettu kokeilu | Variantti amerikkalaisesta klassikosta |
+| [Omenaruusut](/Reseptit/Leivonnaiset/Omenaruusut.md)| Ei maistettu kokeilu | Variantti amerikkalaisesta klassikosta |
 
 # V
 

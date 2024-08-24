@@ -10,7 +10,7 @@ Valmistusaika noin vartti ja toinen uunissa.
 
 ## Idea
 
-Amerikkalaisilla on lehtitaikinasta tehty [omenaherkku](https://www.puffpastry.com/recipe/apple-roses/)], joka näyttää ruusulta. Samasta teemasta on variaatioita filotaikinalla. Syksyllä aina jostakin putkahtaa omenia, joista pitää päästä eroon. Kaupasta saa valmista lehtitaikinaa levyinä ja minulla on mahdoliini. Miksipä siis ei?
+Amerikkalaisilla on lehtitaikinasta tehty [omenaherkku](https://www.puffpastry.com/recipe/apple-roses/), joka näyttää ruusulta. Samasta teemasta on variaatioita filotaikinalla. Syksyllä aina jostakin putkahtaa omenia, joista pitää päästä eroon. Kaupasta saa valmista lehtitaikinaa levyinä ja minulla on mahdoliini. Miksipä siis ei?
 
 ### Työkalut
 
