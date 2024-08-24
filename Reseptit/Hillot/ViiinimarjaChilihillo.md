@@ -49,9 +49,9 @@ Minä en saa lasipurkkeihin tyhjiötä, enkä usalla uittaa niitä kansineen, jo
 
 ## Mitat
 
-1l punainen viinimarja
-2dl suomalainen hillosokeri
-3kpl punainen tuore chili
+- 1 l punainen viinimarja
+- 2 dl suomalainen hillosokeri
+- 3 kpl punainen tuore chili
 
 ## Prosessi
 

@@ -15,9 +15,11 @@ Juuri nyt tämä on suomeksi, koska käytän suomalaisia mittoja ja valmistuotte
 # Idea
 
 Reseptit ovat markdown-tiedostoja GitHub-notaatiolla. Joku hakemistorakenne sen perusteella mihin kategoriaan resepti kuuluu, sekä joukko lyhenteitä ja ikoneja kuvaamaan tuloksen sopivuutta syömistään tarkkaileville ihmisille. Ainakin aluksi Suomessa käytössä olevat lyhenteet: 
+
 - l - laktoositon
 - g - gluteiiniton ja 
 - v - vegaaninen
+
 ainakin esiintyvät jossakin kohtaa otsikkoa. 
 
 Kuvillekin pitänee olla oma hakemistorakenteensa.
