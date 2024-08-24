@@ -1,5 +1,10 @@
 # Reseptit
 
+# O
+| Resepti | Koodit | Status | Kuvaus |
+|---------|--------|--------|--------|
+| [Omenaruustu](/Reseptit/Leivonnaiset/Omenaruusut.md)| Ei maistettu kokeilu | Variantti amerikkalaisesta klassikosta |
+
 # V
 
 | Resepti | Koodit | Status | Kuvaus |
