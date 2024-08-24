@@ -1,5 +1,7 @@
 # Kokeilevan keittiön laboratoriopäiväkirja
 
+[Reseptit](Reseptit.md)
+
 Miksi kaikki reseptit ovat aina luettelo ainesosia ja luettelo peräkkäisiä toimintaohjeita? Miksei asioita tapahdu rinnakkain? Miksi reseptissä on juuri ne ainesosat? Miksei anneta tekniikkaohjeita? Tai usein edes esillepano-ohjeita? Miksei luetella työvälineitä? Kenenkä mukaan kestot on määritelty? Mistä ne lämmöt oikein ovat tulleet?
 
 Kokeilevan keittiön laboratoriopäiväkirja ei vastaa näihin kysymyksiin, se kokeilee ja kirjaa mitä tapahtui, miltä maistui ja yrittää kuvata pelkkien ainesosien lisäksi mitä tehtiin ja miksi se tuntui hyvältä idealta.

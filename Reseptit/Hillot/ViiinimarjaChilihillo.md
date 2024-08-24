@@ -1,4 +1,4 @@
-# Viinimarjachilihillo, vg, g, l
+# Viinimarjachilihillo, v, g, l
 
 Valmistusaika melkein kolme tuntia, josta suurin osa odottelua.
 
