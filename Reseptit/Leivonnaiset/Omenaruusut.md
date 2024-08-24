@@ -62,7 +62,7 @@ Leikkaa omena siemenkodan kummaltakin puolelta. Saat kaksi melkein puolikasta om
 
 Asettele puolikuut vähän päällekäin kunkin taikinalevyn toisen pitkittäisen sivun yläreunaan niin, että kaareva osa tulee hivenen reunan ylitse.
 
-[Rullatut](/Kuvat/Vaiheet/Omenaruusut.jpg)
+![Rullatut](/Kuvat/Vaiheet/Omenaruusut.jpg)
 
 Levitä omenoiden _juureen_ kanelisokeria. Taita lehtitaikinalevy pituussuunnassa, niin että puolikuut pilkistävät taitoksen yläreunasta. Rullaa pituussuunnassa ja saat ruusuja. Asettele rullat vuokaan ja pistä uuniin. Vartti uunissa ritilän päällä keskitasolla.
 
