@@ -86,7 +86,7 @@ Kun Sous Vide on valmis, kiehutetaan vesi. Kiehuva vettä kummankin purkin sisä
 Saksilla vakuumipussi auki ja sisältö tölkkiin, lusikalla tarvittaessa auttaen. Nosta kansi kattilasta pihdeillä ja kierrä patalapulla kiinni purkkiin. Kuivaa purkki rätillä ja nosta jäähtymään pöydälle. Toista toiselle purkille ja pussille.
 
 Anna jäähtyä huoneenlämpöiseksi ja pistä jääkaappiin.
-![Jäähdyttely](/Kuvat/Vaiheet/VakumoituChiliPunaviinimarja.jpg)
+![Jäähdyttely](/Kuvat/Vaiheet/PunaviinimarjaChiliHillo.jpg)
 
 ## Havainnot / opit
 
